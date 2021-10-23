@@ -16,22 +16,10 @@
 
 ### 🏠 [Homepage](https://github.com/pramishacp/NodeJS-How-To-Use-The-URL-Module#readme)
 
-## Install
-
-```sh
-npm install
-```
-
 ## Usage
 
 ```sh
 node index.js https://api.coinbase.com/v2/currencies
-```
-
-## Run tests
-
-```sh
-npm run test
 ```
 
 ## Author
@@ -54,6 +42,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2021 [Pramisha C P](https://github.com/pramishacp).<br />
 This project is [ISC](https://github.com/pramishacp/NodeJS-How-To-Use-The-URL-Module/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
